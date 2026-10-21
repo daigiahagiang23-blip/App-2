@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quản lý nhân sự</string>
+    <!-- SỬA LẠI THÀNH MSSV - HỌ TÊN CỦA BẠN (hiện ở mọi giao diện) -->
+    <string name="thong_tin_sv">K23DTCN420 - Trần Quang Vũ</string>
+</resources>

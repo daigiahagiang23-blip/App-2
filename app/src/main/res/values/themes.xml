@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.BT2" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>

@@ -23,3 +23,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "BT2"
+
+include(":app")
